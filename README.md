@@ -4,7 +4,7 @@
 
 # 🐾 Data Structures Warzone: The Animal Guessing Game
 
-Welcome to the **Data Structures Warzone**, where four powerful data structures go head-to-head in a battle of wits and strategy! In this repository, you’ll find the classic "Animal Guessing Game" implemented using four different data structures:
+In this repository, you'll find four different implementations of **The Animal Guessing Game** using popular data structures:
 
 1. **Binary Tree**
 2. **Hash Map**
