@@ -67,7 +67,7 @@ This project showcases how different data structures handle:
 - Dynamic growth as new information is learned.
 - Efficient data storage and retrieval.
 
-## 📊 Time Complexity Analysis
+## ⏱️ Time Complexity Analysis
 
 Here’s a brief comparison of the time complexities for each implementation:
 
